@@ -1,0 +1,7 @@
+{
+  "name": "1^ Comunità S.AP. iOS",
+  "description": "App per iPhone (iOS): rubrica della 1^ Comunità S.AP. con inserimento contatti in Apple Contatti e calendario preparazioni con sincronizzazione in Apple Calendario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
